@@ -9,7 +9,7 @@ Dollar-cost averaging **(DCA)** is an investment strategy in which an investor d
 
 With this analysis I wanted to find the best time to invest, with the idea in mind that the best way to buy criptocurrency is when it price is low.
 
-**This in not an investing advice, this is only the results of my experiments with data**
+## **This in not an investing advice, this is only the results of my experiments with data**
 
 
 * Dataset  source: https://www.cryptodatadownload.com/
@@ -18,6 +18,13 @@ With this analysis I wanted to find the best time to invest, with the idea in mi
 
 **Conclusions**
 
-1. The best day to by ETH is on Saturday:
+1. The best day to by ETH is on Saturday, just after the day with the lower price in the week.
+
+![ETH Viz](https://github.com/isabelyb/dollar_cost_averaging/blob/main/viz/ETH.png)
+
+
+2. The best day to by BTC is on , just after the day with the lower price in the week.
+
+3. The best day to by ADA is on , just after the day with the lower price in the week.
 
 
