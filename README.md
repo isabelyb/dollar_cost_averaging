@@ -7,6 +7,17 @@ Dollar-cost averaging **(DCA)** is an investment strategy in which an investor d
 **Controlling emotions** for investing is a skill absolutely necesary to avoid bad decisions. According with great investors, one of the best strategy is to set one day a week to invest, not depending on the ups and downs of the market. If combine this strategy with DCA is posible to gain control about our investing. The succes of our inversions is another story and depending on a lot of variables.
 
 
-With this analisis I wanted to find the best time to invest, with the idea in mind that the best way to buy criptocurrency is when it price is low.
+With this analysis I wanted to find the best time to invest, with the idea in mind that the best way to buy criptocurrency is when it price is low.
 
 **This in not an investing advice, this is only the results of my experiments with data**
+
+
+* Dataset  source: https://www.cryptodatadownload.com/
+
+* Notebook in Colab for ETH: [Analisys for Ethereum](https://colab.research.google.com/drive/1F4qfftkrvNFBKmrm1-u8c4ASVAgAhXfJ?usp=sharing)
+
+**Conclusions**
+
+1. The best day to by ETH is on Saturday:
+
+
