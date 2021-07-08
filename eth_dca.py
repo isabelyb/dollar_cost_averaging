@@ -51,7 +51,7 @@ df_count_sorted.rename(index={'Monday':'Mon', 'Tuesday':'Tue', 'Wednesday':'Wed'
 
 #Comparar cantidad de variaciones negativas en el año por día
 plt.bar(df_count_sorted.index, df_count_sorted['count'], width=0.6, color=['r'])
-plt.title('Number of time with negative variation per week for ETH\n24/06/2020 to 25/06/2021')
+plt.title('Number of time with negative price variation per week for ETH\n24/06/2020 to 25/06/2021')
 plt.ylabel('Times')
 plt.show()
 
@@ -59,8 +59,9 @@ plt.show()
 plt.figure(figsize=(10, 6))
 plt.plot(df['date'],df['% var'])
 plt.axhline(y=0, color='r')
-plt.title('% Variation\nfrom 24/06/2020 to 25/06/2021\n')
+plt.title('% Price Variation in ETH\nfrom 24/06/2020 to 25/06/2021\n')
 plt.show()
 
 # Variación en el tiempo (negativa)
-df_neg.plot.line('date','% var', color='r', legend=False).set_title('% Negative Variation\nfrom 24/06/2020 to 25/06/2021\n')
+df_neg.plot.line('date','% var', color='r', legend=False).set_title('% Negative Price Variation in ETH\nfrom 24/06/2020 to 25/06/2021\n')
+plt.show()
