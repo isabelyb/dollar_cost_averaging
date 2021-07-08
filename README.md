@@ -23,13 +23,21 @@ With this analysis I wanted to find the best time to invest, with the idea in mi
 
 **Conclusions**
 
-1. The best day to by ETH is on Saturday, just after the day with the lower price in the week.
+
+1. The best day to by ADA is on Friday, just after the day with the lower price in the week.
+
+![ADA Viz](https://github.com/isabelyb/dollar_cost_averaging/blob/main/viz/ADA.png)
+
+
+2. The best day to by BTC is on Monday, just after the day with the lower price in the week.
+
+![BTC Viz](https://github.com/isabelyb/dollar_cost_averaging/blob/main/viz/BTC.png)
+
+
+3. The best day to by ETH is on Saturday, just after the day with the lower price in the week.
 
 ![ETH Viz](https://github.com/isabelyb/dollar_cost_averaging/blob/main/viz/ETH.png)
 
 
-2. The best day to by BTC is on , just after the day with the lower price in the week.
-
-3. The best day to by ADA is on , just after the day with the lower price in the week.
 
 
