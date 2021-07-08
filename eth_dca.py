@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
+
 '''OBTENER DATASET COMPLETO'''
 
 df = pd.read_csv('https://raw.githubusercontent.com/alnunez/crypto_coins_historical_data/main/Binance_ETHUSDT_d.csv', skiprows=[0])
