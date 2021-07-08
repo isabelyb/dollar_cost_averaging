@@ -9,7 +9,8 @@ Dollar-cost averaging **(DCA)** is an investment strategy in which an investor d
 
 With this analysis I wanted to find the best time to invest, with the idea in mind that the best way to buy criptocurrency is when it price is low.
 
-## **This in not an investing advice, this is only the results of my experiments with data**
+## **This in not an investing advice, this is only the results of my experiments with data**. **DYOR**
+
 
 
 * Dataset  source: https://www.cryptodatadownload.com/
